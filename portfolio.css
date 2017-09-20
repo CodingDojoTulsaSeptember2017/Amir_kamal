@@ -1,0 +1,120 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#back
+{
+    height:1000px ;
+    width:970px ;
+    background: rgba(145,87,145,1);
+    background: -moz-linear-gradient(-45deg, rgba(145,87,145,1) 0%, rgba(143,136,137,1) 47%, rgba(122,80,107,1) 100%);
+    background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(145,87,145,1)), color-stop(47%, rgba(143,136,137,1)), color-stop(100%, rgba(122,80,107,1)));
+    background: -webkit-linear-gradient(-45deg, rgba(145,87,145,1) 0%, rgba(143,136,137,1) 47%, rgba(122,80,107,1) 100%);
+    background: -o-linear-gradient(-45deg, rgba(145,87,145,1) 0%, rgba(143,136,137,1) 47%, rgba(122,80,107,1) 100%);
+    background: -ms-linear-gradient(-45deg, rgba(145,87,145,1) 0%, rgba(143,136,137,1) 47%, rgba(122,80,107,1) 100%);
+    background: linear-gradient(135deg, rgba(145,87,145,1) 0%, rgba(143,136,137,1) 47%, rgba(122,80,107,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#915791', endColorstr='#7a506b', GradientType=1 );
+    
+
+}
+#header
+{
+    width: 970px;
+    height:70px;
+    background-color: whitesmoke;
+    margin: 10px 0px 0px 0px;
+    
+  
+
+}                   
+.Doesit1{
+    margin: 0px 200px 0px 0px;
+    padding:15px;
+    display: inline; 
+    vertical-align: bottom;
+    font:
+}.Doesit2{
+    margin: 0px 0px 0px 400px;
+    padding:15px;
+    display: inline;
+}
+#txt
+{
+    background-color: #FFFFFF;
+    width: 475px;
+    height: 250px;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+}
+.titl{
+    width: 475px;
+    padding: 8px:
+    height: 30px;
+    color: white;
+    background-color:#706A6A;
+    background: rgba(222,209,218,1);
+    background: -moz-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(222,209,218,1)), color-stop(44%, rgba(143,136,137,1)), color-stop(100%, rgba(207,199,204,1)));
+    background: -webkit-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: -o-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: -ms-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: linear-gradient(to bottom, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ded1da', endColorstr='#cfc7cc', GradientType=0 );
+}
+.info{
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    display: inline-block;
+    margin: 10px;
+}
+.head{
+    background-color: gray;
+    width: 300px;
+    height:30px ;
+    background: rgba(222,209,218,1);
+    background: -moz-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(222,209,218,1)), color-stop(44%, rgba(143,136,137,1)), color-stop(100%, rgba(207,199,204,1)));
+    background: -webkit-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: -o-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: -ms-linear-gradient(top, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    background: linear-gradient(to bottom, rgba(222,209,218,1) 0%, rgba(143,136,137,1) 44%, rgba(207,199,204,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ded1da', endColorstr='#cfc7cc', GradientType=0 );
+    color: white;
+}
+#pic{
+    height: 250px;
+    width: 450px;
+    display: inline-block;
+    margin: 10px;
+}
+.sm_img{
+    width:300px;
+    height:150px ;
+    
+}
+.sm_p{
+    width: 300px;
+    margin: 2px;
+    padding:2px;
+    height: 150px;
+}
+input{
+    margin: 5px 110px;
+    padding: 2px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: green;
+    color:white;
+    font-style: bold;
+}
+#contact{
+    width: 970px;
+    height:70px;
+    background-color: whitesmoke;
+}
+p{
+    margin: 5px;
+}
